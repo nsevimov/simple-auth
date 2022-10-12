@@ -1,0 +1,15 @@
+{
+    "name": "nsevimov/simple-auth",
+    "description": "Simple Auth",
+    "authors": [
+        {
+            "name": "Nural Sevimov"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
